@@ -9,3 +9,12 @@ specific disease related deaths that happened in the country.
 
 The required dataset is inside Life Expectancy data.csv file. Here I have used an Extra Tree Regression method to fit and 
 predict the data. I have used Watson studio with machine learning instance for model building and deployment.
+
+Important:-
+These credentials are provided inside service credentials tabs of machine learning instance.
+Path to get that:- Go To dashboard->Resource list->cloud Foundry services->machine learning ** ->service credentials->copy and paste
+wml_credentials={
+  "apikey": "********************",
+  "instance_id": "********************",
+  "url": "https://eu-gb.ml.cloud.ibm.com"
+}
