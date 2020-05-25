@@ -18,3 +18,5 @@ wml_credentials={
   "instance_id": "********************",
   "url": "https://eu-gb.ml.cloud.ibm.com"
 }
+
+For webpage: https://node-red-ocdcc.eu-gb.mybluemix.net/ui/
