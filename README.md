@@ -19,4 +19,6 @@ wml_credentials={
   "url": "https://eu-gb.ml.cloud.ibm.com"
 }
 
+You can copy and paste the details of flows.json or simply download and import in your node-red app.
+
 For webpage: https://node-red-ocdcc.eu-gb.mybluemix.net/ui/
