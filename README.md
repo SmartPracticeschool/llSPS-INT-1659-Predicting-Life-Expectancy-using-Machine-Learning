@@ -22,3 +22,5 @@ wml_credentials={
 You can copy and paste the details of flows.json or simply download and import in your node-red app.
 
 For webpage: https://node-red-mzmya.eu-gb.mybluemix.net/ui/#!/0?socketid=-4Q_qIerFXMQst8eAAAe
+
+YouTube link: https://youtu.be/a31i4dC_98M
